@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wheel of the Blurst</string>
+
+    <string name="search_field_label">Search</string>
+    <string name="search_field_placeholder">Search for a movie</string>
+
+    <string name="search_button_label">Search</string>
+</resources>
